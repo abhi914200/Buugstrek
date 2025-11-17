@@ -123,4 +123,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Aman47754/Bu
 
 ## 📧 Contact
 
-For any queries or suggestions, please contact [amanverma06012004@gmail.com].
+For any queries or suggestions, please contact [abhimanyu.12g@gmail.com].
